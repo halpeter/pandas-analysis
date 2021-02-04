@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas Challenge
 
 ## Background
 
@@ -14,8 +14,6 @@ I utilized Python, Pandas, and Jupyter Notebook to analyze this data.
 * While the bulk of the players range from ages 15 - 29. Those players in the age range 35 - 40 spend significantly more money than any other age range This could be due to older players having a high salary.
 
 * The 'Final Critic' is the most purchased item with the highest amount of profitability. A slight increase in the price of this item due to it's popularity would result in the best chance at an increase in profits.
-
-* The above can be found at HeroesOfPymoli/TrendsAnalysis.md
 
 ## Heroes of Pymoli
 
