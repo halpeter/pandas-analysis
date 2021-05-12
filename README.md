@@ -1,4 +1,4 @@
-# Pandas Challenge
+# Pandas Analysis
 
 ## Background
 
@@ -9,9 +9,9 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 I utilized Python, Pandas, and Jupyter Notebook to analyze this data.
 
 ## Observations & Analysis
-* While there is a significantly higher number of male players, female's and other/non-disclosed spend more on average than those male players do.
+* While there is a significantly higher number of male players, female and other/non-disclosed players spend more on average than male players do.
 
-* While the bulk of the players range from ages 15 - 29. Those players in the age range 35 - 40 spend significantly more money than any other age range This could be due to older players having a high salary.
+* While the bulk of the players range from ages 15 - 29. Those players in the age range 35 - 40 spend significantly more money than any other age range. This could be due to older players having a higher amount of expendable income.
 
 * The 'Final Critic' is the most purchased item with the highest amount of profitability. A slight increase in the price of this item due to it's popularity would result in the best chance at an increase in profits.
 
@@ -38,7 +38,7 @@ My final report includes each of the following:
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
+* The below are each broken down by Gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -46,7 +46,7 @@ My final report includes each of the following:
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* The below are each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -54,7 +54,7 @@ My final report includes each of the following:
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* Identify the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
@@ -80,7 +80,7 @@ My final report includes each of the following:
 
 ### Final considerations:
 
-* The script of the above items can be found here (HeroesOfPymoli/HeroesOfPymoli.ipynb).
+* The script of the above items can be found [here](HeroesOfPymoli/HeroesOfPymoli.ipynb).
 
 
 
